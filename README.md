@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Hackathon%20Enthusiast;C%2B%2B%20Lover;Team%20Player%20and%20Problem%20Solver&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Hackathon%20Enthusiast;Team%20Player%20and%20Problem%20Solver&center=true&width=500&height=50">
 </p>
 
 👋 I'm **Shauviq Mishra**, a 2nd-year B.Tech student in Computer Science & Engineering (AIML) at Manipal University Jaipur.<br><br>
