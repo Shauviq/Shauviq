@@ -1,13 +1,13 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Hackathon%20Enthusiast;Team%20Player%20and%20Problem%20Solver&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack%20Developer;Hackathon%20Enthusiast;Team%20Player%20and%20Problem%20Solver&center=true&width=500&height=50">
 </p>
 
-👋 I'm **Shauviq Mishra**, a 2nd-year B.Tech student in Computer Science & Engineering (AIML) at Manipal University Jaipur.<br><br>
+👋 I'm **Shauviq Mishra**, a 3nd-year B.Tech student in Computer Science & Engineering (AIML) at Manipal University Jaipur.<br><br>
 💻 Deeply interested in core computer science, system design, and building impactful tech products.<br><br>
-🧠 Regular participant in hackathons and ideathons – recently won 🥈 2nd place at Turing Hacks 2.0 for our project CURA.<br><br>
-🛠️ Skilled in C++, Python, React, Django, HTML, CSS, JavaScript, and PostgreSQL.<br><br>
+🧠 Regular participant in hackathons and ideathons – recently won 2nd place at Turing Hacks 2.0 and CodeVeda'25.<br><br>
+🛠️ Skilled in C++, Python, React, Node.js, Express.js, RestAPI, Django, HTML, CSS, JavaScript, and PostgreSQL.<br><br>
 🚀 Led the frontend for AWSS (Automatic Waste Segregation System) – integrated ML into a sleek web interface.<br><br>
 🎯 Aspiring to build a career in big tech (FAANG) and excel in product-focused roles.<br><br>
 🌱 Currently exploring React, system design, and full-stack project architecture.<br><br>
